@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/kensun0799/testProject/_apis/build/status/suengain.pipelines-java?branchName=master)](https://dev.azure.com/kensun0799/testProject/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
